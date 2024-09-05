@@ -28,6 +28,10 @@ namespace devexpress_demo
 
             Table2.Rows.Add("A001", "Product A");
             Table2.Rows.Add("B002", "Product B");
+            //using DevExpress.Images;
+            //openToolStripMenuItem.Image = ImageResourceCache.Default.GetImage("images/actions/open_16x16.png");
+            //saveToolStripMenuItem.Image = ImageResourceCache.Default.GetImage("images/save/save_16x16.png");
+            //closeToolStripMenuItem.Image = ImageResourceCache.Default.GetImage("images/actions/cancel_16x16.png");
         }
     }
 }
